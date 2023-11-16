@@ -14,4 +14,4 @@ In the main repository folder we have:
       - 'crowdfunding_query.sql' which contains four 'SELECT *' statements for each of the tables to query all the data from each table
   - A Jupyter Notebook (.ipynb) file called 'ETL_Mini_Project_Starter_Code_MChiaramonte_MLantin.ipynb' which contains the python code to extract the data from the provided xlsx files and transform it into 4 csv files that are ready to load into our postgress database. 
   - a png file called 'ERD_Crowdfunding_ETL.png' which is the ERD of our database
-  - A Resources folder containing 4 CSV files (contacts.csv, campaign.csv, category.csv, and subcategory.csv) ready to load into our postgress database as well as 2 xlsx files (contacts.xlsx and crowdfunding.xlsx) which contains the raw data we transformed.
+  - A Resources folder containing 4 CSV files (contacts.csv, campaign.csv, category.csv, and subcategory.csv) ready to load into our postgress database as well as 2 xlsx files (contacts.xlsx and crowdfunding.xlsx) which contains the raw data.
